@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\project\\git\\DOIT\\app\\src\\main\\res\\values-v23\\themes.xml",
+                    "source": "D:\\project\\git\\mytodo\\app\\src\\main\\res\\values-v23\\themes.xml",
                     "from": {
                         "startLines": "2,8",
                         "startColumns": "2,2",

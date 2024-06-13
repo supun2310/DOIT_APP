@@ -37,10 +37,10 @@ com.example.todoapp-emoji2-1.2.0-35 C:\Users\Lenovo\.gradle\caches\transforms-3\
 com.example.todoapp-drawerlayout-1.1.1-36 C:\Users\Lenovo\.gradle\caches\transforms-3\f334f190f31d9ed5ccf4dcace1573dc2\transformed\drawerlayout-1.1.1\res
 com.example.todoapp-navigation-fragment-2.6.0-37 C:\Users\Lenovo\.gradle\caches\transforms-3\fa27e581e220263c58cc0368108fe2dc\transformed\navigation-fragment-2.6.0\res
 com.example.todoapp-fragment-ktx-1.6.0-38 C:\Users\Lenovo\.gradle\caches\transforms-3\fdf61686a266def27ca60698cd8aad39\transformed\fragment-ktx-1.6.0\res
-com.example.todoapp-pngs-39 D:\project\git\DOIT\app\build\generated\res\pngs\debug
-com.example.todoapp-resValues-40 D:\project\git\DOIT\app\build\generated\res\resValues\debug
-com.example.todoapp-packageDebugResources-41 D:\project\git\DOIT\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.todoapp-packageDebugResources-42 D:\project\git\DOIT\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.todoapp-merged_res-43 D:\project\git\DOIT\app\build\intermediates\merged_res\debug
-com.example.todoapp-debug-44 D:\project\git\DOIT\app\src\debug\res
-com.example.todoapp-main-45 D:\project\git\DOIT\app\src\main\res
+com.example.todoapp-pngs-39 D:\project\git\mytodo\app\build\generated\res\pngs\debug
+com.example.todoapp-resValues-40 D:\project\git\mytodo\app\build\generated\res\resValues\debug
+com.example.todoapp-packageDebugResources-41 D:\project\git\mytodo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.todoapp-packageDebugResources-42 D:\project\git\mytodo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.todoapp-merged_res-43 D:\project\git\mytodo\app\build\intermediates\merged_res\debug
+com.example.todoapp-debug-44 D:\project\git\mytodo\app\src\debug\res
+com.example.todoapp-main-45 D:\project\git\mytodo\app\src\main\res

@@ -18,6 +18,7 @@ drawable home
 drawable home__1_
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_launcher_icon_background
 drawable ic_launcher_new_background
 drawable img
 drawable img2
@@ -84,9 +85,10 @@ layout fragment_second
 layout list_item
 layout update_info
 mipmap ic_launcher
-mipmap ic_launcher_new
+mipmap ic_launcher_icon
+mipmap ic_launcher_icon_foreground
+mipmap ic_launcher_icon_round
 mipmap ic_launcher_new_foreground
-mipmap ic_launcher_new_round
 mipmap ic_launcher_round
 mipmap user_pic
 mipmap user_pic_foreground

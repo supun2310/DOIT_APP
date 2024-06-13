@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">To do app</string>
+    <string name="app_name">DOIT</string>
     <string name="title_activity_main_screen">main_screen</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>

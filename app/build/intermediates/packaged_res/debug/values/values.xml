@@ -8,7 +8,7 @@
     <color name="user_pic_background">#333F3E</color>
     <color name="white">#FFFFFFFF</color>
     <dimen name="fab_margin">16dp</dimen>
-    <string name="app_name">To do app</string>
+    <string name="app_name">DOIT</string>
     <string name="first_fragment_label">First Fragment</string>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris

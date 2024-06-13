@@ -42,7 +42,7 @@
                     android:layout_alignParentTop="true"
                     android:layout_alignParentRight="true"
                     android:layout_marginTop="8dp"
-                    android:layout_marginRight="-7dp"
+                    android:layout_marginRight="-24dp"
                     app:srcCompat="@drawable/devinfo"
                     tools:srcCompat="@drawable/devinfo" />
 

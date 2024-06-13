@@ -4,7 +4,7 @@
             "outputFile": "com.example.todoapp-mergeDebugResources-41:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\project\\git\\DOIT\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "source": "D:\\project\\git\\mytodo\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "6",
